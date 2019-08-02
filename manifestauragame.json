@@ -1,0 +1,38 @@
+{
+  "name": "Auragame",
+  "short_name": "auragame",
+  "start_url": "https://www.aura-game.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Rental PS3 Kutowinangun Kebumen",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-I4tjauYJ-Lc/XURhXaR1JZI/AAAAAAAAA0c/qaPmgEUwvJclX2U6XXF8sTCnMWtSMV1-wCK4BGAYYCw/s48/auragamelogo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-I4tjauYJ-Lc/XURhXaR1JZI/AAAAAAAAA0c/qaPmgEUwvJclX2U6XXF8sTCnMWtSMV1-wCK4BGAYYCw/s72/auragamelogo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-I4tjauYJ-Lc/XURhXaR1JZI/AAAAAAAAA0c/qaPmgEUwvJclX2U6XXF8sTCnMWtSMV1-wCK4BGAYYCw/s96/auragamelogo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-I4tjauYJ-Lc/XURhXaR1JZI/AAAAAAAAA0c/qaPmgEUwvJclX2U6XXF8sTCnMWtSMV1-wCK4BGAYYCw/s144/auragamelogo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-I4tjauYJ-Lc/XURhXaR1JZI/AAAAAAAAA0c/qaPmgEUwvJclX2U6XXF8sTCnMWtSMV1-wCK4BGAYYCw/s168/auragamelogo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-I4tjauYJ-Lc/XURhXaR1JZI/AAAAAAAAA0c/qaPmgEUwvJclX2U6XXF8sTCnMWtSMV1-wCK4BGAYYCw/s192/auragamelogo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-I4tjauYJ-Lc/XURhXaR1JZI/AAAAAAAAA0c/qaPmgEUwvJclX2U6XXF8sTCnMWtSMV1-wCK4BGAYYCw/s512/auragamelogo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
